@@ -8,4 +8,3 @@ def power1(a, b):
     return result
 
 print(power1(3,11))
-print(4%2)
